@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^2.19.0",
-    "punycode": "^2.1.1",
     "serialport": "^7.1.0",
     "utm": "^1.1.1"
   }
